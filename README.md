@@ -20,3 +20,4 @@ cd Programming_Languages_Ruby
 cd Connect-Four
 ruby run.rb
 ```
+*Note: since we used some special characters for tokens, they might not show in all terimnals. However, the terminal of Visual Studio Code should be able to display them.
