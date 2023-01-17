@@ -16,6 +16,7 @@ In order to run this project, you will  need to install Ruby. More information o
 Once you have ruby installed, you can run the game by typing the following commands:
 ```
 git clone https://github.com/Tijana97/Programming_Languages_Ruby
+cd Programming_Languages_Ruby
 cd Connect-Four
 ruby run.rb
 ```
