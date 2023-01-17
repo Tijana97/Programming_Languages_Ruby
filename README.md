@@ -6,7 +6,7 @@ The project was done as part of the **IT 305 Programming Languages** course at I
 
 ## Team members
 - [Tijana Burazorović](https://github.com/Tijana97)
-- [Sara Nalo](https://github.com/Aldin-SXR)
+- [Sara Nalo](https://github.com/nalosara)
 - [Džanin Mašić](https://github.com/DzaninMasic)
 
 ## Running the project
