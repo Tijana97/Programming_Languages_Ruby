@@ -1,6 +1,6 @@
 # Connect Four
 
-This project is a Connect Four game in which two players take turns try to align four of thir tokens in the same line, side by side, either horizontally, vertically or diagonally. The player who suceeds to do that first wins the game. The game is also saveable, meaning that at any point a player can decide to save the game to continue later and loadable, meaning that players can continue playing the last saved game. In case the board is filled, the result is a draw. After one game is finished, the players are asked to play another game.
+This project is a Connect Four game in which two players take turns try to align four of their tokens in the same line, side by side, either horizontally, vertically or diagonally. The player who suceeds to do that first wins the game. The game is also saveable, meaning that at any point a player can decide to save the game to continue later and loadable, meaning that players can continue playing saved game that's saved last. In case the board is filled, the result is a draw. After one game is finished, the players are asked to play another game.
 
 The project was done as part of the **IT 305 Programming Languages** course at International Burch University, and implemented in the **Ruby** programming language.
 
